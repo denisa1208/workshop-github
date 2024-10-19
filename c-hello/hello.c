@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	puts("Hello from Unikraft!");
+	puts("Hello I am Teodor!");
 
 	return 0;
 }
